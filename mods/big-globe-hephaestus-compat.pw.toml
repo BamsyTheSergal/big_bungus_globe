@@ -1,0 +1,8 @@
+name = "big-globe-hephaestus-compat"
+filename = "big-globe-hephaestus-compat.jar"
+side = "both"
+
+[download]
+url = "https://github.com/BamsyTheSergal/big_bungus_globe/raw/refs/heads/main/big-globe-hephaestus-compat.jar"
+hash-format = "sha256"
+hash = "6ee35827b32085c8e4f0c02ab3c134dec188a0085bdde7e9e5e3608244975cf8"

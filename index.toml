@@ -46,8 +46,9 @@ hash = "0f03c8f7fd46d0e0a0b6e8946dd92cb9ac077fc079a638bf8789d1dea6c8c554"
 metafile = true
 
 [[files]]
-file = "mods/big-globe-hephaestus-(tinkers-construct)-compatibility-pack-1.0.jar"
-hash = "6ee35827b32085c8e4f0c02ab3c134dec188a0085bdde7e9e5e3608244975cf8"
+file = "mods/big-globe-hephaestus-compat.pw.toml"
+hash = "0f35f22f58a371944837408d6a82dc30af4ff26c1a6b9f8b4a4ee732f9a2112b"
+metafile = true
 
 [[files]]
 file = "mods/big-globe-mythic-metals-compatibility.pw.toml"
