@@ -3,8 +3,8 @@ filename = "journeymap-1.20.1-5.10.3-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a662a85bbb21e575cc285571309a43b010a301c987040a107b512c1c1229ef220fc04306ea6b2eaa011f227f405bdac1c243687ce122def5f23721f71bf47fea"
+hash-format = "sha256"
+hash = "a048c98c2b0cbc7f7c221974d0e808d56f7546bdf48d3a7811ed35a8723417b2"
 mode = "metadata:curseforge"
 
 [update]

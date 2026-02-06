@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xhS8jEYO/versions/5Onf1ZR0/big-globe-yungs-better-strongholds-compatibility-1.0.jar"
-hash-format = "sha512"
-hash = "dae815c66bf713705cccf67eac287100e820f80d85c193b04a0bec7eb90647c10702e07dabe1a5fdb761591808fd020c42a58cb32b9165f8bf50647aaead0916"
+hash-format = "sha256"
+hash = "140e8ff5e350fc3e6923fc32025d9c5ca9ea48ba7418d0b2ea479a5d9058ee8d"
 
 [update]
 [update.modrinth]

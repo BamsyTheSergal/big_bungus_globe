@@ -3,8 +3,8 @@ filename = "YungsBetterCaves-1.20.1-Fabric-2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "db01f5c133c62c23f2a92ab83e19ea81682ff88b9625374865ad4f465fb1496bd6b11d3c3453fab1601765400d2a914150c2fb018b63e835d5358971bf5fafa3"
+hash-format = "sha256"
+hash = "634c080f85b9558ece81eec0f6c872999f542208e9c26da4100b62f37d7297d3"
 mode = "metadata:curseforge"
 
 [update]

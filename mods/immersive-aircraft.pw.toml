@@ -3,8 +3,8 @@ filename = "immersive_aircraft-1.4.0+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "0e6700f7225fea6a2eef827887333588ce4d6c503ec044cb1afcb76cd584f1d33cdd0f7ad20c1880d144db9e4d453ff6dbdeddc6278600d4a3f3fbc99880b0ec"
+hash-format = "sha256"
+hash = "87c40c0e9308438e1d8bbe2df2ca73245cf0eff95d31509fd6b9dc3716c9b776"
 mode = "metadata:curseforge"
 
 [update]

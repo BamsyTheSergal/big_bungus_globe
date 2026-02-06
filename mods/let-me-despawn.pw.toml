@@ -3,8 +3,8 @@ filename = "letmedespawn-1.20.x-fabric-1.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "9cd165f407e16445d70d3ba916df732e41b769384a133b08291d400fed20c3f1a00a225e81b693542e914917e10ab5b7dc1c9ca62c5c596f76453fdcf010ff41"
+hash-format = "sha256"
+hash = "6fa924944e2adf5f6fabc7b29980c1ec6bbe02cb58646f32e544d066e91e8593"
 mode = "metadata:curseforge"
 
 [update]

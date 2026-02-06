@@ -3,8 +3,8 @@ filename = "Cull Less Leaves-1.4.2+1.21-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "e9f479d73d55963f71f9ad5dbdca2d287d28048aeca2818f9ffc9e7bb9531a18af4e894b4c673d435b051d4fad2cee9666f31a773486cee2e4b9548edfd34781"
+hash-format = "sha256"
+hash = "e603214d2ef7b988958751bd9a359fb81f29c26ac4d00863f0f37190d08ff363"
 mode = "metadata:curseforge"
 
 [update]

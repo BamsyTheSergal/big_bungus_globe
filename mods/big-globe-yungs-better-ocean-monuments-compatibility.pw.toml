@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/f4mC1K5U/versions/5kv6r59C/big-globe-yungs-better-ocean-monuments-compatibility-1.0.jar"
-hash-format = "sha512"
-hash = "b467285b26a23aefae9024a409b92b9b20c9d36c1d7f85ac4a25ff0cf3d18c910a360b27add4220730dd50f91e6fec280654a9b7825a19924f31a56e38decf5e"
+hash-format = "sha256"
+hash = "b30980765de9790a266c5b38a92a7df216bbeed9cbe7d2afb6162cbe59fe46de"
 
 [update]
 [update.modrinth]

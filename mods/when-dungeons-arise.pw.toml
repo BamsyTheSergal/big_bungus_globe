@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8DfbfASn/versions/Vd5XOXlj/DungeonsArise-1.20.1-2.1.57-fabric-release.jar"
-hash-format = "sha512"
-hash = "83509ed624236c32277906d8a39a81c55deb5b13782506aba5a67728d8615f9cce76671fd52743caaa4d17516473fe248b3154400146adbabaa436a652aa9837"
+hash-format = "sha256"
+hash = "e8efd54576797faff7cc221e26a41a097e985baa7889398defb15da4135d7cf8"
 
 [update]
 [update.modrinth]

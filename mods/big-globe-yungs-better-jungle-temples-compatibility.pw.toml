@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wFdjhYov/versions/n0gcfw9N/big-globe-yungs-better-jungle-temples-compatibility-1.0.jar"
-hash-format = "sha512"
-hash = "28ffc165397bf435e4dd839d1227f0052267947bb889c05b9b0dca6d60beda5d8ff902ad0f930d7f05a648b94a9cc43d39cb0dac13a6a785f32b9e30d57406d5"
+hash-format = "sha256"
+hash = "c7a54bfd3e3d556299aa096f0d753532c25a998743482d125feee982e138415a"
 
 [update]
 [update.modrinth]

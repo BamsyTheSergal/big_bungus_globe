@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xsng1aJf/versions/B1QYERvz/Big%20Globe-5.2.0-MC1.20.1.jar"
-hash-format = "sha512"
-hash = "885068584f839b0c40673e2b5b2f442bd2886882704a5ced8f4ffb29326100beb9355c91c5f13a8c415bf70d08476f7e6b0a10d9b8799054b2ae42a673b8b009"
+hash-format = "sha256"
+hash = "b3ce7bdea2e716ab273045c306a8f3610797c9cc57bde0876ec62144cd759db9"
 
 [update]
 [update.modrinth]

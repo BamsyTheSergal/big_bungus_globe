@@ -3,8 +3,8 @@ filename = "things-0.3.3+1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a79c8dbe581046fb9e86ffd987408e7e1651718252a40133b0473d8838857fffa8de51ba799fc09f5d5da9c204d81680878d48fc3c747d6617d44b2d615cbf25"
+hash-format = "sha256"
+hash = "62ed1a15b7515fb2c1323f4b44d221975a1d0293e24e9235a5e04dc0afa37206"
 mode = "metadata:curseforge"
 
 [update]

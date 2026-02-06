@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qzSxph6Q/versions/Zis72zK2/create-big-globe-compatability-1.0.jar"
-hash-format = "sha512"
-hash = "3d08ef0e20463215ee248738a16e3e11344b3c68a481ea19f7e5774d973dbb15cec159101d3ffe2a331cdb9e88fe5d718b63621d0e9b7aa3d3072a4c332d565d"
+hash-format = "sha256"
+hash = "d2e685819812aac3fcf64ca5437f791e8c46448f38b6417a33aee1cd64bcb715"
 
 [update]
 [update.modrinth]

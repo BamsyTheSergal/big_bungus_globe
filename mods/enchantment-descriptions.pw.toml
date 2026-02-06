@@ -3,8 +3,8 @@ filename = "EnchantmentDescriptions-Fabric-1.20.1-17.1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "84c66109669efb965bb55833bfcbc681e509db9656fb60b2e90ed5a8c637fc358759b9abd9fd5dd9478c4e8b749f23c25a5d5cadbb45b77c50bfd4c617864f82"
+hash-format = "sha256"
+hash = "6a557e7c358e1614e8be49ddf8c36f4822f2368fabc23eefa2df96fe43473c4d"
 mode = "metadata:curseforge"
 
 [update]

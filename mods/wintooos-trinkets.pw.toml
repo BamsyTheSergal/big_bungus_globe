@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/e8CxVDsi/versions/VMgoN9ZN/tffaf-alpha-7-1.20.1.jar"
-hash-format = "sha512"
-hash = "2ae4590dc5a54744188d9ec7852bd7c0ff1b5773d3e2ee7ec9293a43998efcf37e1895a09a343a2bacfc182619ba0216f4618119ad6323aa4b4b709c07c38ff0"
+hash-format = "sha256"
+hash = "cb62b44156c7624eae00cf0571ec0f8b1ee0b0134ab4be6969ceff932d2fd710"
 
 [update]
 [update.modrinth]

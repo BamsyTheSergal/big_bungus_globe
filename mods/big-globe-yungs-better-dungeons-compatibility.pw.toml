@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VOha5rKf/versions/TN1ODPVN/big-globe-yungs-better-dungeons-compatibility-1.0.jar"
-hash-format = "sha512"
-hash = "eedf08b94d6cc3c63fd7d72d955720368691508717ca5ca0f69e782c438ca5181799c75384c3a85c7d1a36c54f349315c5ca8e14cc5ef99d258222de361fb2dc"
+hash-format = "sha256"
+hash = "b287ebb5d23d6e8999cf57ac46b66d47e0de6638a092db4e3990a9e726cafda6"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "cristellib-1.1.5-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "50ac2ac365932c5ea43a8baa67c2509292ae810fbe15848f202160c0bac3ef5ae648f175ae93436a9226e5b082cec562fab8da17c524bb642360aa859ef52652"
+hash-format = "sha256"
+hash = "6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b"
 mode = "metadata:curseforge"
 
 [update]

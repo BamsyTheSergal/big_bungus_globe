@@ -3,8 +3,8 @@ filename = "sawmill-1.20-1.4.10-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "71a2d2feb829c3fa0e8f69a61ad3cb535deb8b880cbd1fdb71ab7b7e06abf8f4b14f1efaedad5022a3c88c4c2246c0759b8298b266b5768b3b88a39a87edb403"
+hash-format = "sha256"
+hash = "7f806ed4d323e931604fc480a95f1586e6be192aaee2786d086708f540a19dcf"
 mode = "metadata:curseforge"
 
 [update]

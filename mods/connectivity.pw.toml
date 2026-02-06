@@ -3,8 +3,8 @@ filename = "connectivity-fabric-1.20.1-7.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "62a996c49d0fc2a9a1091b5da2624e7f00358e3ccdb15cc2af718603fde963eaa20c663e82b6d7de9b3dfc0be2aba232dc6a68abd098d91c4e2670fb14ecabf6"
+hash-format = "sha256"
+hash = "e7314a5ccb1952ba0430e3a69dd9c13bf79c2f3eee48359d2f6d08a57a9e4a23"
 mode = "metadata:curseforge"
 
 [update]

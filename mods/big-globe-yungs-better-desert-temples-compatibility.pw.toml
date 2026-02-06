@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QKHuMlDl/versions/FYG9F9xB/big-globe-yungs-better-desert-temples-compatibility-1.0.jar"
-hash-format = "sha512"
-hash = "b04bbaedf088240675825dc170405a812e07af5c1b945ec41aa1691fd6230b50cc031b65f149de39dfd6fdd60fc465b4536d228e2da5f3a25b260ecf1c8e4fa8"
+hash-format = "sha256"
+hash = "1c99c39249ded2694d37908431084ad60b35e3530569a17c3aa7a2fe6cc67b31"
 
 [update]
 [update.modrinth]

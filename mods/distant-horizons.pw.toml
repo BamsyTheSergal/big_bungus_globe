@@ -3,8 +3,8 @@ filename = "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "679cb6f9b55d7eea43c17f0204042140590de712b0cecdc14016e8064a9846695e2f438922377f658e26534c49cb61e6da939a6be53c2cb1cd1bc088b69db3ee"
+hash-format = "sha256"
+hash = "e29c5d6a47ce40ec174f96104ac3639605de30e3811b39907de7070feb230cc2"
 mode = "metadata:curseforge"
 
 [update]

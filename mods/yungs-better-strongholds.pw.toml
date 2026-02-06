@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/kidLKymU/versions/yV6hn0bB/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
-hash-format = "sha512"
-hash = "e70c8daa91e88d8af97e99201264c9646c82a8cf1966b87ca1e53b591e7f1ed3cee2f8875dbe88f9b58e2a7d151fded34896bb4bd23f33f2bfef4c590fbba850"
+hash-format = "sha256"
+hash = "122b74d59629bf755663263a4ce43e58a5d13b74e67bea332d44a9bedb51b74a"
 
 [update]
 [update.modrinth]

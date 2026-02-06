@@ -3,8 +3,8 @@ filename = "Ixeris-3.8.6+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "72bc49170f503426ce43754a1d1a38f410d45a612f5b14b2a5767faf66ef3d5a56e6f6bf0f53510838ae123847f051af339559dc4365d224e08e77d81675e898"
+hash-format = "sha256"
+hash = "47b18b61327588884172e84addbe3756d882cd94dbe47b7862aa81b3aa431b03"
 mode = "metadata:curseforge"
 
 [update]

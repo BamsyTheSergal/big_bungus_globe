@@ -3,8 +3,8 @@ filename = "fastquit-3.0.0+1.20+.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "aa4710b43b9ed8a15f39d83fd0f6fc84f5c1e2348b2bad2e88ab0c0793d308162035f6bbed03488eefe719fe565ed37d6310c710f07349c10502ae5937555133"
+hash-format = "sha256"
+hash = "6c07d505a7c7435c9813edf68103c8320e37c20daf95418d508aac2681212a78"
 mode = "metadata:curseforge"
 
 [update]

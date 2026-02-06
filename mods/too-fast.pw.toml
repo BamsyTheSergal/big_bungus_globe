@@ -3,8 +3,8 @@ filename = "toofast-fabric-1.20-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "b7f133d04a990f5b03c6cd5b19c2008b6f8e4a40fcd0342f561db2e651f9e4331770ace52ffa40d3d94d3cc7e1e0d1614d682faf24f25fc95c33c38db4677ab9"
+hash-format = "sha256"
+hash = "dc0e9cf1770166fe56190a715340ad04eb40cfe59ca40cf2288c30645a104fd4"
 mode = "metadata:curseforge"
 
 [update]

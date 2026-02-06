@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pfBmkDr3/versions/y7jTwV5a/big-globe-towns-and-towers-compatibility-1.0.jar"
-hash-format = "sha512"
-hash = "4d8295e54252c08e81be271890f5c50514410fc6e4a387ece087f8001a2c1b77405a4967176ae45bd50a18c373599f7a8407e6d93af684c477319d2cd7025580"
+hash-format = "sha256"
+hash = "64dc8f842731d2d49464d2e2dc350b353c03c47309a9b747c859a0d8be348229"
 
 [update]
 [update.modrinth]

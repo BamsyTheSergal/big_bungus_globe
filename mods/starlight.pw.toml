@@ -3,8 +3,8 @@ filename = "starlight-1.1.2+fabric.dbc156f.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "6b0e363fc2d6cd2f73b466ab9ba4f16582bb079b8449b7f3ed6e11aa365734af66a9735a7203cf90f8bc9b24e7ce6409eb04d20f84e04c7c6b8e34f4cc8578bb"
+hash-format = "sha256"
+hash = "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8"
 mode = "metadata:curseforge"
 
 [update]

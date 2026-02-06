@@ -3,8 +3,8 @@ filename = "particle_core-0.3.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "3497cadc6e5015c98bf7b1ffb28e8f39cde52ee6b6157077274aa7fee9fb182c4cea477422288043c5e0a634b72ef38bfe0257475d59ffd6c665b12797df11b4"
+hash-format = "sha256"
+hash = "95e5cece50913c452c397b3d87f14265fffa0372680b255f913172ad252c5454"
 mode = "metadata:curseforge"
 
 [update]

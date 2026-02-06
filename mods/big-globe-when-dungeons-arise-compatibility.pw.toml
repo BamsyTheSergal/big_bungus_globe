@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5obAEsYh/versions/cPyCdhvr/big-globe-when-dungeons-arise-compatibility-1.1.jar"
-hash-format = "sha512"
-hash = "e27c3b63049afbd66cdb616ec66b474d354f7b69bb13f6d53ddaa9d353881061f6814fcdf07f48b0cb638cbeadc51bf1ad103508a545577499a46a9a68945361"
+hash-format = "sha256"
+hash = "57008d4289ac6caff8809b90c753d362596031140ff5fee4adf3412b704f370b"
 
 [update]
 [update.modrinth]

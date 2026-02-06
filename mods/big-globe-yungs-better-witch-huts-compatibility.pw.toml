@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XqiBHWlM/versions/IUClPRNc/big-globe-yungs-better-witch-huts-compatibility-1.0.jar"
-hash-format = "sha512"
-hash = "87f477bed8e10e1037f25744b323190adc2593fb115b5ce906a8b62228aecae47ff0d9908b9d0c3955535a5eca1624e7719e837c2bc322c4f85b097bdf1327e3"
+hash-format = "sha256"
+hash = "e52c592655473ac444c2b0440390ee0e187549f65f7a9624f91ea756cc4d1fae"
 
 [update]
 [update.modrinth]

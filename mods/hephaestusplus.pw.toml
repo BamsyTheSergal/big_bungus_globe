@@ -3,8 +3,8 @@ filename = "hephaestusplus-1.1.1+1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "1e6a6c3302c20178de057e4fdefbfa0ae1072e12cbf06899fdaedef49b0e0ca9ae95daadc47c1c38033bcb9a1a81779d8c8a78d23bba8342e238185257a8031a"
+hash-format = "sha256"
+hash = "d7039b4e8f168fd49b01022e06f5ff47f37c334c8c03f7cf1f28c704433f6203"
 mode = "metadata:curseforge"
 
 [update]

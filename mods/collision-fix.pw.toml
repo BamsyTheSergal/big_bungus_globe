@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CBtq0jWL/versions/srnyGoVX/CollisionFix-1.0.1.jar"
-hash-format = "sha512"
-hash = "e09978362bdebdc41bb2ff354106d021f6bef3c1bf06b217235f65478f5fd854a9f02cf8ff001121506f42422f10599792097e6611904f97362d3448a24169f6"
+hash-format = "sha256"
+hash = "20b6edbe563f115ac894a58428b790df0d5c11efb0bc85a89955f73cbb2824fd"
 
 [update]
 [update.modrinth]

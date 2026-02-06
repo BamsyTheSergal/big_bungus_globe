@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/zVynCmEG/versions/IQy4IDsI/Big%20Globe%20-%20Mythic%20Metals%20Compatibility%201.9.jar"
-hash-format = "sha512"
-hash = "8deddd9943fcb80ea798891ba6f81c1de7dd55474490989ec6ced40312c81e6b14c05ded32c006f8ff6fea65b7c893cd235b9279ceca7d222d99ec514066d9d6"
+hash-format = "sha256"
+hash = "468ecdd3ee66a734faadf7f44957ac38b29f0dc710fd0ecab5386012dfbee0c5"
 
 [update]
 [update.modrinth]

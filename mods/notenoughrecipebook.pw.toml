@@ -3,8 +3,8 @@ filename = "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "e972943266e7b11d346864e1805636e6287e1554a3f4feaa68af0b3a0c5d87c308ebc80d24199b44c49b3130fd582355f5c2f9b64aa27edde54c4995f0d50591"
+hash-format = "sha256"
+hash = "d682d4f8e8c9ed3f98170ab857610baaa8ad45c5a0113fd35fc00a91e29f5bc7"
 mode = "metadata:curseforge"
 
 [update]
