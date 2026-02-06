@@ -1,0 +1,13 @@
+name = "Big Globe - YUNG's Better Witch Huts Compatibility"
+filename = "big-globe-yungs-better-witch-huts-compatibility-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XqiBHWlM/versions/IUClPRNc/big-globe-yungs-better-witch-huts-compatibility-1.0.jar"
+hash-format = "sha512"
+hash = "87f477bed8e10e1037f25744b323190adc2593fb115b5ce906a8b62228aecae47ff0d9908b9d0c3955535a5eca1624e7719e837c2bc322c4f85b097bdf1327e3"
+
+[update]
+[update.modrinth]
+mod-id = "XqiBHWlM"
+version = "IUClPRNc"

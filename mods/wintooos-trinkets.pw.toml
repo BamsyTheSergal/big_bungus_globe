@@ -1,0 +1,13 @@
+name = "Trinkets for Friends and Family"
+filename = "tffaf-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e8CxVDsi/versions/O7yhffu5/tffaf-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "85a256d6382663267b2f9f6bcbe15c7dde4f57976b6bbec692cc1045bd4ec71bce341df14b8677fa1d92ab32ecfb924031e1f24af8000251bf10367dfedb2faa"
+
+[update]
+[update.modrinth]
+mod-id = "e8CxVDsi"
+version = "O7yhffu5"

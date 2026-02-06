@@ -1,0 +1,13 @@
+name = "Big Globe - YUNG's Better Nether Fortresses Compatibility"
+filename = "big-globe-yungs-better-nether-fortresses-compatibility-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E4FKAK60/versions/wvYeRnyc/big-globe-yungs-better-nether-fortresses-compatibility-1.0.jar"
+hash-format = "sha512"
+hash = "ec2acda216d7e2346be42ed6c76dcc9a0de16ab43f052b1953338809dd59d602d874ba9881e3dc34760da5a506be76dfac4a1b390525cb9d2553c2e8a57c4696"
+
+[update]
+[update.modrinth]
+mod-id = "E4FKAK60"
+version = "wvYeRnyc"

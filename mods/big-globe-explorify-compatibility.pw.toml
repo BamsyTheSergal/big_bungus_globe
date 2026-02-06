@@ -1,0 +1,13 @@
+name = "Big Globe - Explorify Compatibility"
+filename = "big-globe-explorify-compatibility-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SiaQhWsG/versions/Pjp7ChCT/big-globe-explorify-compatibility-1.0.jar"
+hash-format = "sha512"
+hash = "890f0c1a2231c7eb951f93f27ef5d03d47a6578c5f30423264c7c5055084077b3b2310e63ac00280329a00101d730db1a18294680ebe238f28539cd36d91eb0a"
+
+[update]
+[update.modrinth]
+mod-id = "SiaQhWsG"
+version = "Pjp7ChCT"

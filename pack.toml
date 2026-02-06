@@ -1,0 +1,13 @@
+name = "Big Bungus Globe"
+author = "Bamsy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bd4d87c59cdc95c3ac16ebf655e2465e8654c9fe69392c609128c48659329670"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.20.1"
