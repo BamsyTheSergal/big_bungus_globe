@@ -3,8 +3,8 @@ filename = "getittogetherdrops-fabric-1.20-1.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cdf7f844b1d710cabb41eed13f66b3aab75aaaee"
+hash-format = "sha512"
+hash = "f0d1ad74deb3743bead24fb314fc7a25a442fbaaad5ced37455a8f3e4dadcdee57ebe2080fca17735be74825f7ccc4426a264b289ead03417fc57172cb4abca9"
 mode = "metadata:curseforge"
 
 [update]

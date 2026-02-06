@@ -3,8 +3,8 @@ filename = "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "46e896cabf7813275413c97e6dd2f48ef534057d"
+hash-format = "sha512"
+hash = "38ba14d870ddbcef233c9baa399005aaccde95d7b77175aa3a795eb9fed1086492b4ac5c6bbc05909dd76dce1b19b5c26613585161c2f3d20f2494beb8b23fe4"
 mode = "metadata:curseforge"
 
 [update]

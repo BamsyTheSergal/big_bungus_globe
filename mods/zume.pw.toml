@@ -3,8 +3,8 @@ filename = "zume-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "433406987269d89cf4fc0170a1f1d1c9b8ddd504"
+hash-format = "sha512"
+hash = "ce41ce418f42c663ca7dfa96cd3ff78a797754ef6ba1ebf618c77ebd55794c8b885d56052944263b7baaa6524f19a5fd53c5ddd15b93e19fb8feec76f0ce0ebe"
 mode = "metadata:curseforge"
 
 [update]

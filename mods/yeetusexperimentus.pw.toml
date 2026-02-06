@@ -3,8 +3,8 @@ filename = "YeetusExperimentus-Fabric-2.3.0-build.4+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a97794ac52a21f8598acc541c4571c4ec7bacaae"
+hash-format = "sha512"
+hash = "4a96ba2e2e7d87df47bb11113050a8749cced3c1539f277f606b723415260524c46fe823b814d71b1b1c4dd677467dd88bbec9fe47a0e9210ae7be3f4fd05d45"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "epic-knights-1.20.1-fabric-10.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "edfb95f97ad42cf372aa9cf6a3ba566d106eb3a4"
+hash-format = "sha512"
+hash = "200590fa3c2cbe607e3a5f929ed0460c613772911fe9d54cffead780c56f46750731312b5ba8f2937da461e0e11f151bc61e5ef5a8b6db2b5e1ea856296c1611"
 mode = "metadata:curseforge"
 
 [update]

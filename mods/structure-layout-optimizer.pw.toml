@@ -3,8 +3,8 @@ filename = "structure_layout_optimizer-fabric-1.0.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d227c88decede1778f12dd6cb72a751cac21a18b"
+hash-format = "sha512"
+hash = "9bc0408d2c1b5d11004466b58830167ea2cbc15c66fccfc03c23cd1bb330c9541107db797709565e65191cf7f623352078dba2ee5d5374df6342cb23246bcc17"
 mode = "metadata:curseforge"
 
 [update]
