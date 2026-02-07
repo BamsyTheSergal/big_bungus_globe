@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "d75a49fb71e46bd67a0661e15c87bc2b80671a6a73df91242f3b07976457acdd"
 metafile = true
@@ -137,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "51df0976da029d001d151580c6ead4938b47f664e9be4ba4437a62da8a6fabe4"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -146,8 +151,23 @@ hash = "9ddf12c3a1e967e3574efd527c3b27c4f1a1e9ae2e0c5c3f8c60092ef1758b8e"
 metafile = true
 
 [[files]]
+file = "mods/collar-trinkets.pw.toml"
+hash = "fc49868c5ae48ecbf4d8a8ec9c97e346587a011dded3ca2fca6fe901e416c820"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
+metafile = true
+
+[[files]]
 file = "mods/collision-fix.pw.toml"
 hash = "02fe0eb46195068363ab0a61418e885226ee8d1cbc4467e0cd80e1df29bbafd6"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "0ddc386e8216df00c0f15e3c6f89e4b295e90722f4cb3fe09baa47e733045727"
 metafile = true
 
 [[files]]
@@ -158,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "81eb4661a121627ca129faf26043bd20f9ba654191120edc83904bb39c3300dc"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
 metafile = true
 
 [[files]]
@@ -196,6 +221,11 @@ hash = "781dfc967ff4b40e9079c41bd6026424fcb1ba5edb3b76f5fde382765da225be"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "e4f4f6156fb0156a94ec25a5d7e62f4af1f0c9bed6ba050b505f23d4b5c8bb6f"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "a52d57e307ef8d009cce88a52ebc2b2b0c656b56000da2309b688bf96d5d0823"
 metafile = true
@@ -203,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "b8e22c3cb7beab895092ae0a1183b2494abf39c2c1aa4ac35fc64b9d9bd285ce"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "354515e4c9017acf24464556a4b56f3e15d0302308d09a9fe80817b05b6e4ff5"
 metafile = true
 
 [[files]]
@@ -236,8 +271,28 @@ hash = "dd1641d5b805871931a17dc9bf9eea2d3ff8604a654bdae5262cbf6db6d19091"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-addon.pw.toml"
+hash = "31f3e0cd7414f3111db1180e81ecb734f6f5e5426a9a9af8f864f345d88891c3"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-antique-legacy.pw.toml"
+hash = "bc966eafb831df46b76d7cf1eedb15a4c2949e6db6403fc31a6ee7ee449725e9"
+metafile = true
+
+[[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
 hash = "f6f4a4c4932a2322a4e31cf8dbede33702255d06ddd97e4dd9483e5bfa532344"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "a8896e2304fff2d6896e2aac25e6b0958821ec9e7ed9afe0642a71c5de8399cb"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-slavic-armory.pw.toml"
+hash = "34e5231800aef89cdc6d96937f29cc13845db729d41be7925c3fb33e225e9b13"
 metafile = true
 
 [[files]]
@@ -268,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "109f98703f28ad9b461719a4b5887b1f52b37d2f92440f8cbb252d39eee1c795"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "fcfd264784dcda039d9efc0b3e47ef1f04521698761a34d2f20379d5f9c0fe26"
 metafile = true
 
 [[files]]
@@ -328,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "33dc4ce52e5b225d27b3286d5b391cfac514b08101e541a48334410f6cef55a7"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "40a8d97db3162ea083e5ad40a6a8f7ba0f260d714b74854ba77d2644e1914bbf"
 metafile = true
 
 [[files]]
@@ -456,6 +521,21 @@ hash = "dbe357263511171a0d44882364564127652cfb42391e5c4640f7ccca0bd42944"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d7e763487a19beb7d6e1fe5bfab490fc0562f298c21fce5a026d878fe82c88c0"
 metafile = true
@@ -508,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage-unofficial-fabric-port.pw.toml"
 hash = "d0d90adb4a5b1bd389ac50b692fa37a3300c32c113b0d72d5bf45863d9f3d304"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "16b47887b077a40b58f0eaf1fd6f5c93bfda1c085125283006b756512fadc4e8"
 metafile = true
 
 [[files]]
@@ -602,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c3fbc1fc29c9e1de53b24c7d43dde8e70ddc87e5044c26ab74e968f8ef7461b7"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Collar Trinkets"
+filename = "collar-trinkets-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HuZ2oZ78/versions/BXkFD5VI/collar-trinkets-1.0.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ca813d1a211580d15d24361219e69ebf1269526e9b16e6c69d29c756c00f4144c4ad2c056d8da1b6990f04621405b6b74e49495ef057d7162d75d70947a84757"
+
+[update]
+[update.modrinth]
+mod-id = "HuZ2oZ78"
+version = "BXkFD5VI"

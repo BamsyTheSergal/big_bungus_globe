@@ -1,0 +1,13 @@
+name = "Epic Knights: Slavic Armory"
+filename = "epic-knights-slavic-armory-1.20.x-fabric-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tdA8M9rp/versions/nJPvyLMX/epic-knights-slavic-armory-1.20.x-fabric-2.0.jar"
+hash-format = "sha512"
+hash = "242c045f8d6186a773015d562df38e825292fa06204704a3a40ae6e643ce462099764fb886353064c7653b65dde35461a687dc36716dada3a46639ba336cc918"
+
+[update]
+[update.modrinth]
+mod-id = "tdA8M9rp"
+version = "nJPvyLMX"

@@ -1,0 +1,13 @@
+name = "Epic Knights: Addon"
+filename = "epic-knights-addon-1.20.x-fabric-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/txMuoRai/versions/emXwqQ06/epic-knights-addon-1.20.x-fabric-2.5.jar"
+hash-format = "sha512"
+hash = "32526b2e5eaee84a507373a25610bbbbaf2f1eed8ba9170ada6e878a976973d982069d7bbe2c7eabbb175eeef66ad0f4ec7311366d2b6bf23c6b059f8dce5d50"
+
+[update]
+[update.modrinth]
+mod-id = "txMuoRai"
+version = "emXwqQ06"
