@@ -181,8 +181,8 @@ hash = "81eb4661a121627ca129faf26043bd20f9ba654191120edc83904bb39c3300dc"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
+file = "mods/controllermod.pw.toml"
+hash = "c82ae604b5cde8989a61e88e9a788c9f14f7c5177b640b8fbd87d402806b5fde"
 metafile = true
 
 [[files]]
@@ -638,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "a20c5937c28d7e7c89fafc1dc90aca6481c55e3ec9cb6a8b7c7027058ee2789e"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.pw.toml"
+hash = "6a1a69e843f677941cf6de9a79954f68542cfde54fbed6668f2ded5965cc4ef8"
 metafile = true
 
 [[files]]
