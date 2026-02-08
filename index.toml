@@ -376,11 +376,6 @@ hash = "884eed61b6045893201909589feea959a26fc754f7d7b3c18252385e3e75b2dd"
 metafile = true
 
 [[files]]
-file = "mods/hephaestusplus.pw.toml"
-hash = "78f361e0e9067a1632c75aa3b59ae69e678386a57b681ec8be1611123d01d889"
-metafile = true
-
-[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "33dc4ce52e5b225d27b3286d5b391cfac514b08101e541a48334410f6cef55a7"
 metafile = true
