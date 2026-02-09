@@ -441,6 +441,11 @@ hash = "2426ebcfeef88b56ac5dd32fd5f741dd41687d5bd9f585370fd12b57274dee01"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
+metafile = true
+
+[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "953c85dba7f495595c898165fe40fea6445805b572e2b5a0b8cb15bc39b2b99e"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "47c35e9b29937b5566e8988cfbce1834c4edd0316edd38f6e7ff7a8d1dfc1854"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "d7aaccec2291f2be791ec0cc3185102eec7aabc9323f6262343293a375603db5"
 metafile = true
 
 [[files]]
