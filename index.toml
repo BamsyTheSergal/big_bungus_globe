@@ -376,6 +376,11 @@ hash = "884eed61b6045893201909589feea959a26fc754f7d7b3c18252385e3e75b2dd"
 metafile = true
 
 [[files]]
+file = "mods/hephaestusplus.pw.toml"
+hash = "6eb54613d2aafdb6d08fc3c820366c6441fa2ecc69c7e6215e52fc67e835c638"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "33dc4ce52e5b225d27b3286d5b391cfac514b08101e541a48334410f6cef55a7"
 metafile = true
@@ -483,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "d5b45685c7f4e9a35c9f538fd82f33ca04cb176785ba69e12648c3831e8e9f71"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
